@@ -1,4 +1,3 @@
-#Amos Mwongela Gabriel - 4ouR04
 #!/usr/bin/python3
 '''A script for parsing HTTP request logs.
 '''
